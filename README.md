@@ -80,9 +80,6 @@ For more information on NAT and Port Forwarding:
 - Review network configuration documentation for your specific router/device
 - Check the screenshots directory for step-by-step visual guidance
 
-## Author
-**Rashmi Bansal** (Rashmi-Bansal35)
-
 ## License
 This project is open source and available for educational purposes.
 
@@ -90,5 +87,3 @@ This project is open source and available for educational purposes.
 Feel free to fork this repository, make improvements, and submit pull requests for enhancements or additional configurations.
 
 ---
-*Last Updated: 2026-04-10*
-*Project Created: 2026-04-08*
